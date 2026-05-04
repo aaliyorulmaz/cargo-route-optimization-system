@@ -71,9 +71,6 @@ node server.js
 * Reduced delivery deviation
 * Improved efficiency
 
-## 📂 Dataset
-Large graph data file is not included in this repository.
-
 ## 👤 Author
 **Aali Yorulmaz**
 
