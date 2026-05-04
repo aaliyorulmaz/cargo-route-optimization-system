@@ -66,4 +66,15 @@ node server.js
 <a href="images/images1(admin).png"><img src="images/images1(admin).png" width="400"></a>
 <a href="images/images2(admin).png"><img src="images/images2(admin).png" width="400"></a>
 
+## 📌 Results
+* More realistic routing compared to Euclidean distance
+* Reduced delivery deviation
+* Improved efficiency
+
+## 📂 Dataset
+Large graph data file is not included in this repository.
+
+## 👤 Author
+**Aali Yorulmaz**
+
 
