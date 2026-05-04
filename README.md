@@ -74,4 +74,6 @@ node server.js
 ## 👤 Author
 **Aali Yorulmaz**
 
+## Duration: December 2025 - January 2026
+
 
