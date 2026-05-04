@@ -60,7 +60,7 @@ npm install
 node server.js
 
 
-## 📸 Proje Ekran Görüntüleri
+## 📸 Screenshots
 
 <a href="images/images(user).png"><img src="images/images(user).png" width="400"></a>
 <a href="images/images1(admin).png"><img src="images/images1(admin).png" width="400"></a>
